@@ -92,7 +92,7 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = '𝐁𝐎𝐓 𝐊𝐀𝐘𝐍'
-global.author = 'BOT KAYN'
+global.author = 'KAYN'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
@@ -103,7 +103,6 @@ global.official = [ // Agregate si eres Owner
 ['523223777688', '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹', 1],
 ['', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
-global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
@@ -112,25 +111,10 @@ global.vs = '1.0.1'
 global.vsJB = '3.0'
 
 global.gt = '𝐁𝐎𝐓 𝐊𝐀𝐘𝐍'
-global.yt = 'https://youtube.com/@gatadios'
-global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
-global.ig = 'https://www.instagram.com/gata_dios'
-global.md = 'https://github.com/GataNina-Li/GataBotLite-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789/'
 
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
-global.nna2 = 'https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76' //Help
-global.nn = 'https://chat.whatsapp.com/EMP0ZURA5kXHG73X5PqMU1' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/DUU638FK74P7KWmRAd4u4J' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/Kt5EXwUhcO8Ay76CIDLs7d' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/K0UCo7igED92q9c1w2DiEH' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/HJLpWS2BDrWCPH6uAUKIRG' //Grupo 5
-global.nnnttt2 = 'https://chat.whatsapp.com/F63pQpKCsWiF2zFXxhYnky' //Grupo 6 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo 7 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/ErnXC51D9lWJtRWOD4stR2' //Grupo 8 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/ErnXC51D9lWJtRWOD4stR2' //Grupo 9 COL
+global.nna = 'https://chat.whatsapp.com/EvqDXsYAAuL0hWSFIE14Hf' //KUPIDITE SEX TEAM
 global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/18059196237' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/523337889542' //Comunícate con Kayn Schorder
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
