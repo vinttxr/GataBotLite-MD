@@ -11,8 +11,8 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰   
 
 global.owner = [
-['523318021170', '𝐁𝐎𝐓𝐊𝐀𝐘𝐍', true], 
-['523337889542', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
+['523337999451', 'kayn bot', true], 
+['523337889542', 'Kayn Schorder (1) 💻', true],  
 ['523223777688', '𝙊𝙬𝙣𝙚𝙧 (2) 💻', true],  
 ['']]
 
@@ -91,19 +91,19 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝐁𝐎𝐓 𝐊𝐀𝐘𝐍'
-global.author = 'KAYN'
+global.packname = 'KAYN BOT'
+global.author = 'kayn @crxcified'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // KAYN SCHORDER
-['523318021170', 'BOT KAYN', 1], 
+['523337999451', 'kayn bot', 1], 
 ['523337889542', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ['', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
 ['523223777688', '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹', 1],
-['', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
+['', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
-global.desc = '' //agrega una descripción corta
+global.desc = '' //bot exclusivo de Kayn Scho9rder
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = '' //agrega tú país ejemplo: 🇪🇨
 
