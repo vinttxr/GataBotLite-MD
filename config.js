@@ -92,7 +92,7 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = 'KAYN BOT'
-global.author = 'kayn @crxcified'
+global.author = 'kayn @sinmercy'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
